@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=shark&color=cace97&height=120&text=&animation=&fontColor=000000&fontSize=70" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  </h2>  
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7EDE5&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+HyeonJeong.%F0%9F%90%A5)](https://git.io/typing-svg) </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">  </div> 
     </div>
     <div align= "center">
