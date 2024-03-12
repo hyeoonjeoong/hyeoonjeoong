@@ -29,8 +29,8 @@
     <h2 style="color: #c9d1d9;"> 🧑‍💻 Contact me </h2>
     <div align= "center"><a href=mailto:jeooooong22@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:jeooooong22@gmail.com"> </a><br> <a href=https://velog.io/@jeooooong> <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@jeooooong"> </a>
           <br> 
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jeooooong)]([벨로그링크](https://velog.io/@jeooooong/posts)) <br> 
           </div>  <br> 
+          [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=jeooooong)](https://velog.io/@jeooooong) 
    ![footer](https://capsule-render.vercel.app/api?type=waving&color=00fafa&height=120&section=footer&text=&fontSize=70) <br> <br> 
 </div>
 
