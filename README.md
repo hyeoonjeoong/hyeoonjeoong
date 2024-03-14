@@ -30,7 +30,8 @@
     <div align= "center"><a href=mailto:jeooooong22@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:jeooooong22@gmail.com"> </a><br> <a href=https://velog.io/@jeooooong> <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@jeooooong"> </a>
           <br> 
           </div>  <br> 
-          [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=jeooooong)](https://velog.io/@jeooooong) 
+          [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=jeooooong)](https://velog.io/@jeooooong) <br> <br> 
+        [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeoonjeoong%2Fhit-counter&count_bg=%231D9292&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=+%F0%9F%91%80+&edge_flat=false)](https://hits.seeyoufarm.com)<br> 
    ![footer](https://capsule-render.vercel.app/api?type=waving&color=00fafa&height=120&section=footer&text=&fontSize=70) <br> <br> 
 </div>
 
